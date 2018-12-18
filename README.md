@@ -14,8 +14,11 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Contatos
+
 - E-mail: ferreira.77.vitor.3467@gmail.com
+
 ## Jogos
+
 ### Artes
 
 - Bulleted
