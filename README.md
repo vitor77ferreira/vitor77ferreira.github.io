@@ -17,7 +17,7 @@ Designer Gráfico
 
 ### Artes
 
-![tete] (http://s2.glbimg.com/oD9XFZo12kp8v6OGIbIPemfkpGw=/e.glbimg.com/og/ed/f/original/2017/10/26/tiranossauro.jpg)
+![tete](http://s2.glbimg.com/oD9XFZo12kp8v6OGIbIPemfkpGw=/e.glbimg.com/og/ed/f/original/2017/10/26/tiranossauro.jpg)
 
 ### Markdown
 
