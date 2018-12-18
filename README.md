@@ -6,13 +6,6 @@ Aluno de Programação de Jogos Digitais.
 
 Designer Gráfico
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
 # Contatos
 
 - E-mail: 
@@ -23,6 +16,15 @@ Syntax highlighted code block
 **Meu Jogo** : _Jogo Muito Legal_
 
 ### Artes
+
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+
 
 - Bulleted
 - List
