@@ -15,9 +15,12 @@ Syntax highlighted code block
 
 # Contatos
 
-- E-mail: ferreira.77.vitor.3467@gmail.com
+- E-mail: 
+- ferreira.77.vitor.3467@gmail.com
 
 ## Jogos
+
+**Meu Jogo** : _Jogo Muito Legal_
 
 ### Artes
 
