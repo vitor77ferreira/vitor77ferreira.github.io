@@ -30,6 +30,10 @@ Designer Gráfico
 4. Adicionar um link que seja imagem (url + arquivo)
 [![Imagem2](Elia colombo.jpg)](https://marcelomesmo.com/)
 
+5. Avançado: Adcionar um link que seja uma imagem (em uma nova aba)
+
+<a href="https://marcelomesmo.com/" target="_blank"> ![Imagem2](Elia colombo.jpg) </a>
+
 ![tete](http://s2.glbimg.com/oD9XFZo12kp8v6OGIbIPemfkpGw=/e.glbimg.com/og/ed/f/original/2017/10/26/tiranossauro.jpg)
 
 ### Markdown
