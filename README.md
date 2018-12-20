@@ -18,7 +18,13 @@ Designer Gráfico
 ### Artes
 
 1. Adcionar um link (url)
-[Clique aqui] (https://marcelomesmo.com/)
+[Clique aqui] (http://www.gebe.it/img/home.jpg)
+
+2. Adcionar uma Imagem da Internet
+![Clique aqui] (http://www.gebe.it/img/home.jpg)
+
+3. Adcionar uma imagem do computador (arquivo)
+
 ![tete](http://s2.glbimg.com/oD9XFZo12kp8v6OGIbIPemfkpGw=/e.glbimg.com/og/ed/f/original/2017/10/26/tiranossauro.jpg)
 
 ### Markdown
