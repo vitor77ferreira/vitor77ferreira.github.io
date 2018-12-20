@@ -18,7 +18,7 @@ Designer Gráfico
 ### Artes
 
 1. Adcionar um link (url)
-[Clique aqui] (http://www.gebe.it/img/home.jpg)
+[Clique aqui](http://www.gebe.it/img/home.jpg)
 
 2. Adcionar uma Imagem da Internet
 ![Clique aqui] (http://www.gebe.it/img/home.jpg)
