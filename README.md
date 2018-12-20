@@ -24,6 +24,8 @@ Designer Gráfico
 ![Clique aqui] (http://www.gebe.it/img/home.jpg)
 
 3. Adcionar uma imagem do computador (arquivo)
+![Imagem1](eliacolombo4.jpg)
+![Imagem2](Elia colombo.jpg)
 
 ![tete](http://s2.glbimg.com/oD9XFZo12kp8v6OGIbIPemfkpGw=/e.glbimg.com/og/ed/f/original/2017/10/26/tiranossauro.jpg)
 
