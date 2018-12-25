@@ -1,0 +1,179 @@
+body {
+    background-color: #F1ECE1;
+    
+}
+
+
+/*-------------------------------------------------------------------*/
+
+
+#apresentacao{
+    margin: -18px -7px 0px;
+
+    background-color: #FFF;
+    
+}
+
+#apresentacao #nome{
+    padding: 25px 5vw 0px 5vw;
+    width: 70vw;
+    margin: 0px 10vw;
+
+    text-align: center;
+    border-bottom: solid 1px #666;
+    
+} 
+
+#apresentacao nav{
+    padding: 10px 0px 30px 0px;
+
+    text-align: center;
+    
+}
+
+#apresentacao nav a{
+    margin: 0px 1vw;
+
+    color: #666;
+    text-decoration: none;
+}
+
+
+/*---------------------------------------------------------------------*/
+
+
+#inicio{
+    height: 870px;
+    margin: 160px 10vw;
+
+    display: flex;
+    flex-flow: row wrap;
+
+    background-color: #FFF;
+
+}
+
+#inicio #imagem, #inicio #descricao-wrapper{
+    width: 50%;
+}
+
+#inicio #descricao-wrapper #descricao{
+    padding: 20px;
+}
+
+#inicio #imagem{
+    /*background-image: url(Images\placeholder-cutecat1.jpg);*/
+    background-image: url(imagens/vitor.jpg);
+    background-repeat: no-repeat;
+    margin-top: 70px;
+    
+}
+
+
+/*---------------------------------------------------------------------*/
+
+#talentos{
+    height: 800px;
+    margin: 0px -8px;
+
+    background-color: #000;
+    color: #FFF;
+    text-align: center;
+
+}
+
+#lados-wrapper{
+    display: flex;
+    flex-flow: row wrap;
+}
+
+
+#talentos #lados-wrapper #direita, #talentos #lados-wrapper #esquerda {
+    width: 49.9%;
+    margin-top: 100px;
+}
+
+#talentos #lados-wrapper #esquerda {
+    border-right: 1px solid #FFF;
+}
+
+/*---------------------------------------------------------------------*/
+
+#trabalhos-realizados{
+    height: 870px;
+    margin: 160px 10vw;
+
+    display: flex;
+    flex-direction: column;
+    
+    text-align: center;
+    
+
+    background-color: #FFF;
+}
+
+#trabalhos-realizados #trabalho-realizado{
+    margin: 0px 120px;
+}
+/*---------------------------------------------------------------------*/
+
+#inspiracoes{
+    height: 1400px;
+    margin: 0px -8px;
+
+    display: flex;
+    flex-direction: column;
+
+    background-color: #000;
+    color: #FFF;
+    text-align: center;
+}
+
+#inspiracoes h4{
+    margin-top: 30px;
+}
+
+/*---------------------------------------------------------------------*/
+
+
+#contatos{
+    height: 240px;
+    margin: 160px -7px 80px;
+    
+
+    
+    text-align: center;
+}
+
+/*---------------------------------------------------------------------*/
+
+/*FONTES*/
+#inicio #imagem, #inicio #descricao-wrapper h1{
+    font-size: 5em;
+    line-height: 1.5em;
+    margin-bottom: 0px;
+}
+
+#inicio #imagem, #inicio #descricao-wrapper h3{
+    font-size: 1.5em;
+
+    color: #333;
+}
+
+#inicio #imagem, #inicio #descricao-wrapper p{
+    font-size: 1em;
+    line-height: 1.5em;
+
+    color: #333;
+}
+
+
+
+#talentos h1{
+    padding-top: 20px;
+    font-size: 2em;
+}
+
+#contatos h4{
+    color: #333;
+}
